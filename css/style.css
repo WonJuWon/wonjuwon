@@ -81,7 +81,7 @@ input {
 
 #footer {
   position: fixed;
-  top:0;  
+  bottom:0;
   color: white;
   font:size:40px;
 }
